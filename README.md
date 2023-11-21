@@ -1,3 +1,4 @@
 # logo-test
 
-[logo](logo.png)
+logotest
+[logo](logo-black.png)
