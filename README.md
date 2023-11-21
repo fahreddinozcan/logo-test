@@ -1,3 +1,3 @@
 # logo-test
 
-[logo](/logo.png)
+[logo](logo.png)
